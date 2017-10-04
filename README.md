@@ -1,3 +1,9 @@
+# ats2.vim
+
+Continuation of work done at https://github.com/alex-ren/org.ats-lang.toolats/tree/master/org.ats-lang.toolats.vim
+
+Old readme:
+'''
 Vim plugins for ATS (http://www.ats-lang.org)
 ======================================
 
@@ -73,4 +79,4 @@ Vim indentation plugin
 ----------------------
 To do ...............
 
-
+'''
