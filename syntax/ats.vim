@@ -36,7 +36,7 @@ syntax keyword atsKeyword exception
 syntax keyword atsKeyword where lam local
 highlight link atsKeyword Keyword
 
-syn match datsModPath "\u\(\w\|'\)*\."he=e-1
+syn match atsModPath "\u\(\w\|'\)*\."he=e-1
 
 syn match atsCharacter +#"\\""\|#"."\|#"\\\d\d\d"+
 syn match atsCharErr +#"\\\d\d"\|#"\\\d"+
@@ -57,4 +57,4 @@ syn match atsKeyChar "="
 syn match atsNumber "\<-\=\d\+\>"
 syn match atsNumber "\<-\=0[x|X]\x\+\>"
 
-let b:current_syntax = "dats"
+let b:current_syntax = "ats"

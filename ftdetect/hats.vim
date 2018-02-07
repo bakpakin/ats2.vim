@@ -1,1 +1,1 @@
-au BufRead,BufNewFile *.sats		set filetype=dats
+au BufRead,BufNewFile *.sats		set filetype=ats
